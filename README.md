@@ -15,4 +15,4 @@ Simple script to generate a static mta-sts.txt file from your MX records and ser
 | `MTA_STS_MAX_AGE` | Indicates how long the sender should cache the policy (Default: `1209600`)           |
 
 6. Click "Save and Deploy"
-
+7. Under "Custom domains" click "Set up a custom domain" and add "mta-sts.[YOUR_DOMAIN]"
